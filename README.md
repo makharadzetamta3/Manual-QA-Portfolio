@@ -62,6 +62,7 @@ This section highlights practical proof of technical capabilities acquired durin
 
 Demonstrated competence in modern, specialized QA domains, including:
 
+
 * Frontend & UI/UX Testing.
 * Accessibility Testing.
 * Backend & API Validation.
